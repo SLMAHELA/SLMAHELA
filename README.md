@@ -16,7 +16,8 @@ My background combines hands-on medical-device technical and clinical support ex
 
 ## 🚀 Featured Project
 
-### [RehabSense – Smart Wearable Knee Rehabilitation Tracker](https://github.com/SLMAHELA/RehabSenese)
+### [RehabSense – Smart Wearable Knee Rehabilitation Tracker](https://github.com/SLMAHELA/RehabSenese)  
+<img src="https://raw.githubusercontent.com/SLMAHELA/RehabSenese/main/prototype.png" alt="RehabSense wearable prototype" width="450">
 
 A wearable prototype designed to estimate knee joint angles, count rehabilitation exercise repetitions, and classify movement quality.
 
