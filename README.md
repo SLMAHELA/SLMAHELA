@@ -24,7 +24,7 @@ My background combines hands-on medical-device technical and clinical support ex
   </a>
 </p>
 
-**🏆 Winner — SpringEngineering Challenge 2026**
+**🏆 Winner — Springineering Challenge 2026**
 
 A wearable rehabilitation tracker developed using an ESP32 and IMU sensors to estimate knee joint angles, count exercise repetitions, and analyse movement quality. The project integrates embedded programming, wireless communication, backend processing, and dashboard visualisation.
 
