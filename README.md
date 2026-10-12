@@ -4,7 +4,7 @@
 
 I'm pursuing an MSc in Biomedical Engineering at the University of Oulu, Finland. My interests include wireless sensing, electromagnetic simulation, embedded systems, and the development of technology for healthcare applications.
 
-My background combines hands-on medical-device technical and clinical support experience with practical engineering projects involving electronics, sensors, wireless communication, and data visualization.
+My background combines hands-on medical-device technical and clinical support experience with engineering projects involving electronics, sensors, wireless communication, and data visualisation.
 
 ## 🔬 Areas of Interest
 
@@ -14,24 +14,45 @@ My background combines hands-on medical-device technical and clinical support ex
 - Wearable health-monitoring devices
 - Medical-device testing and troubleshooting
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### [RehabSense – Smart Wearable Knee Rehabilitation Tracker](https://github.com/SLMAHELA/RehabSenese)  
-<img src="https://raw.githubusercontent.com/SLMAHELA/RehabSenese/main/prototype.png" alt="RehabSense wearable prototype" width="450">
+### 1. [RehabSense — Smart Wearable Knee Rehabilitation Tracker](https://github.com/SLMAHELA/RehabSenese)
 
-A wearable prototype designed to estimate knee joint angles, count rehabilitation exercise repetitions, and classify movement quality.
+<p align="center">
+  <a href="https://github.com/SLMAHELA/RehabSenese">
+    <img src="https://raw.githubusercontent.com/SLMAHELA/RehabSenese/main/prototype.png" alt="RehabSense wearable rehabilitation prototype" width="450">
+  </a>
+</p>
 
-**Technologies:** ESP32, MPU6050 IMUs, C++, Python, MQTT, BLE, InfluxDB, Grafana
+**🏆 Winner — SpringEngineering Challenge 2026**
 
-The project combines wearable sensors, embedded programming, wireless communication, backend data processing, and dashboard visualization.
+A wearable rehabilitation tracker developed using an ESP32 and IMU sensors to estimate knee joint angles, count exercise repetitions, and analyse movement quality. The project integrates embedded programming, wireless communication, backend processing, and dashboard visualisation.
+
+**Technologies:** ESP32, MPU6050, C++, Python, MQTT, BLE, InfluxDB, Grafana
+
+### 2. [FractureSense — Microwave-Based Bone Fracture Monitoring](https://github.com/SLMAHELA/FractureSense)  
+
+<p align="center">
+  <a href="https://github.com/SLMAHELA/FractureSense">
+    <img src="https://raw.githubusercontent.com/SLMAHELA/FractureSense/main/resonator_prototype.png"
+         alt="FractureSense microwave resonator prototype and measurement setup"
+         width="450">
+  </a>
+</p>
+
+Research project within my MSc in Biomedical Engineering at the University of Oulu, exploring microwave-based sensing for non-invasive monitoring of changes in bone fracture angles.
+
+The work involves microwave resonator design, CST Studio Suite electromagnetic simulations, MATLAB-based S11 analysis, physical prototyping, and investigation of tissue-equivalent phantom fabrication methods.
+
+**Technologies:** CST Studio Suite, MATLAB, Microwave Sensing, Electromagnetic Simulation, Resonator Design
 
 ## 🛠️ Technologies & Tools
 
 - **Programming:** C++, Python, MATLAB
-- **Embedded & IoT:** ESP32, MPU6050, MQTT, BLE
-- **Simulation & Engineering:** CST Studio Suite, electromagnetic simulation
-- **Data & Visualization:** InfluxDB, Grafana
-- **Hardware:** PCB prototyping, electronics testing
+- **Embedded Systems & IoT:** ESP32, MPU6050, MQTT, BLE
+- **Simulation & Engineering:** CST Studio Suite, Electromagnetic Simulation
+- **Data & Visualisation:** InfluxDB, Grafana
+- **Hardware:** PCB Prototyping, Electronics Testing
 
 ## 🎓 Education
 
@@ -44,4 +65,4 @@ Liverpool John Moores University, UK
 ## 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/mahela-ranasinghe)
-- [GitHub Projects](https://github.com/SLMAHELA?tab=repositories)
+- [GitHub Repositories](https://github.com/SLMAHELA?tab=repositories)
